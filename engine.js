@@ -2,6 +2,7 @@ const Engine = {
     name: "Super Engine",
     make: "Awesome Motors",
     model: "Turbo 2000",
+    serialNumber: "ZL12365824034T",
     year: 2024,
     capacity: "2.0L",
     displayInfo: function() {
