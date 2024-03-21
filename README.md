@@ -13,12 +13,12 @@ To include the "carEngine" in your project as a submodule:
 
 ```bash
 git submodule add https://github.com/zoeLub/carEngine path/to/submodule
+```
 
-
-## Contributing:
+### Contributing:
 
 Contributions to enhance the clarity and usability of the "carEngine" are welcome. Please feel free to submit pull requests or open issues for any suggestions or improvements.
 
-## License:
+### License:
 
 This repository is licensed under the MIT License, allowing for open collaboration and use in various projects.
